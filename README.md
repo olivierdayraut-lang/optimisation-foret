@@ -22,7 +22,7 @@ L'objectif est de **modéliser la croissance d'une forêt** puis d'**optimiser l
 | Fichier | Description |
 |---|---|
 | `GTA_2026.ipynb` | Code Python et visualisations |
-| `rapport_foret.pdf` | Rapport complet rédigé en LaTeX |
+| `rapport_gta_v2.pdf` | Rapport complet rédigé en LaTeX |
 
 ## Auteur
 
